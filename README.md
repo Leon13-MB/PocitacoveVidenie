@@ -1,4 +1,4 @@
-# CompVision
+# POČÍTAČOVÉ VIDENIE
 Lucas-Kanade Optical Flow
 - Kamil Adamišín
 - Michal Budiš
