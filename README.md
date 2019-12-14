@@ -1,5 +1,5 @@
 # POČÍTAČOVÉ VIDENIE
-##Lucas-Kanade Optical Flow
+## Lucas-Kanade Optical Flow
 - Kamil Adamišín
 - Michal Budiš
 - Jakub Karľa
