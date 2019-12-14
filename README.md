@@ -1,2 +1,9 @@
-# PocitacoveVidenie
-zadanie Lucas-Kanade Optical Flow
+# CompVision
+Lucas-Kanade Optical Flow
+# Overview (Slovak)
+
+# Pseudocode
+
+```javascript
+
+```
