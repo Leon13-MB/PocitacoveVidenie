@@ -6,4 +6,4 @@
 # Overview (Slovak)
 https://github.com/Leon13-MB/PocitacoveVidenie/blob/master/Overview/PV-LucasKanade.pdf
 # Pseudocode
-
+https://github.com/Leon13-MB/PocitacoveVidenie/blob/master/PseudoCode.pdf
